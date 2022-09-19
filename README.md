@@ -3,7 +3,7 @@
 
 # Project Title: Customer Care Registry
 
-Team Leader : PRAKASH R
+Team Lead : PRAKASH R
 
 Team Member 1 : JETSON CYRUS J 
 
