@@ -39,16 +39,10 @@ print(list)
 #Full form of WSGI?
 #Web Server Gateway Interface
 
+
 ''' prime.py'''
-
-
-
 num = int(input("Enter a number: "))
-
-
 flag = False
-
-
 if num > 1:
     
     for i in range(2, num):
@@ -57,13 +51,12 @@ if num > 1:
             flag = True
             
             break
-
-
 if flag:
     print(num, "is not a prime number")
 else:
     print(num, "is a prime number")
     
+
 '''odd.py'''
 m = int(input(" Please Enter the Maximum Value : "))
 n = int(input(" Please Enter the Maximum Value : "))
@@ -74,9 +67,8 @@ while m <= n:
         print("{0}".format(number))
         m = m + 1
         
-'''odd series.py'''
-#
 
+'''odd series.py'''
 lower = int(input("Enter the start:"))
 upper = int((input("Enter the end:"))
 
@@ -92,6 +84,7 @@ for num in range(lower, upper + 1):
            print(num)
          
 
+
 '''fibonacci.py'''
 num = int(input("Enter number"))
 n1, n2 = 0, 1
@@ -103,6 +96,8 @@ for i in range(2, num):
     print(n3, end=" ")
 
 print()
+
+
 
 '''calculator.py'''
 choice = input('''
@@ -136,7 +131,8 @@ else:
     print('Enter a valid operator, please run the program again.')
     
     
- '''String operations'''
+
+'''String operations'''
  ---Concatenation---
 str1="Hello"
 str2="World"
