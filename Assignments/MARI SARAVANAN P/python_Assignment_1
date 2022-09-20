@@ -1,0 +1,56 @@
+''' prime.py'''
+num = int(input("Enter a number: "))
+flag = False
+if num > 1:
+    
+    for i in range(2, num):
+        if (num % i) == 0:
+            
+            flag = True
+            
+            break
+if flag:
+    print(num, "is not a prime number")
+else:
+    print(num, "is a prime number")
+    
+
+'''odd.py'''
+m = int(input(" Please Enter the Maximum Value : "))
+n = int(input(" Please Enter the Maximum Value : "))
+number = 1
+
+while m <= n:
+    if(m % 2 != 0):
+        print("{0}".format(number))
+        m = m + 1
+        
+
+'''odd series.py'''
+lower = int(input("Enter the start:"))
+upper = int((input("Enter the end:"))
+
+print("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+   if num > 1:
+       for i in range(2, num):
+           if (num % i) == 0:
+               break
+       else:
+           print(num)
+         
+
+
+'''fibonacci.py'''
+num = int(input("Enter number"))
+n1, n2 = 0, 1
+print("Fibonacci Series:", n1, n2, end=" ")
+for i in range(2, num):
+    n3 = n1 + n2
+    n1 = n2
+    n2 = n3
+    print(n3, end=" ")
+
+print()
