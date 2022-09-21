@@ -3,6 +3,8 @@
 
 # Project Title: Customer Care Registry
 
+<img src = "https://www.revechat.com/wp-content/uploads/2020/12/24x7-customer-support.png" width = "100%" height = "50%" />
+
 Team Size : 4
 
 Team Member 1 (TL) : PRAKASH R              | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/PRAKASH%20R">Assignments</a>
