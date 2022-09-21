@@ -3,6 +3,8 @@
 
 # Project Title: Customer Care Registry
 
+Team Size : 4
+
 Team Lead : PRAKASH R              | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/PRAKASH%20R">Assignments</a>
 
 Team Member 1 : JETSON CYRUS J     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/JETSON%20CYRUS%20J">Assignments</a>
