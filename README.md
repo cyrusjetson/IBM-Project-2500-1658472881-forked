@@ -1,11 +1,12 @@
 # IBM-Project-2500-1658472881
 
+
+# 🛃 CUSTOMER CARE REGISTRY
+
 <h1 align="fill" >
  <img src="https://www.revechat.com/wp-content/uploads/2020/12/24x7-customer-support.png" />
 </h1>
 
-
-# 🛃 CUSTOMER CARE REGISTRY
 
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
 
