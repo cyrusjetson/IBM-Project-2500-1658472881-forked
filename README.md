@@ -50,7 +50,7 @@ Team Member 4 : JETSON CYRUS J     | <a href="https://github.com/IBM-EPBL/IBM-Pr
 
 # 😶‍🌫️ Assignments - REG
 
-[EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Emphathy%20Map/Empathy_Map-Customer-Care-Registry-V0.pdf)
+[EMPATHY MAP LINK ](Project Design & Planning/Ideation Phase/Emphathy Map/Empathy_Map-Customer-Care-Registry-V0.pdf)
 
 ---- >>> Upload assignments in assignments folder..
 
