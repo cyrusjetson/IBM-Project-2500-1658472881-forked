@@ -38,7 +38,8 @@ Team Member 4 : JETSON CYRUS J     | <a href="https://github.com/IBM-EPBL/IBM-Pr
 ## PROJECT DESIGN & PLANNING
 # 🧩 IDEATION PHASE
 
-      Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+
 - [x] Literature Survey
 - [x] Problem Statement
 - [x] Empathy Map
