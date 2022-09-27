@@ -46,7 +46,7 @@ Ideation is the process where you generate ideas and solutions through sessions 
 - [x] Top 3 Ideas
 
 
-# EMPATHY MAP CANVAS :
+# 📌EMPATHY MAP CANVAS :
 
 An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.
 
