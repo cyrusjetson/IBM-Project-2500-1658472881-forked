@@ -1,0 +1,135 @@
+Li=[1,2,3,4,5,6,7,8,9]
+Iter=1
+print("The initial list is:")
+for i in Li:
+    print(i,end=" ")
+while(Iter==1):
+    print("\nHello Welcome to Menu drien pgm choose your choice\n")
+    print("1.Insert at position\n2.Print List\n3.Delete First\n4.Append(Insert at last)\n5.Sort the list\n6.pop(Delete from last)\n7.Reverse the list")
+    choice=int(input("Enter your choice"))
+    if(choice==1):
+        pos=int(input("Enter the position to Insert"))
+        ele=int(input("Enter the element  to Insert"))
+        Li.insert(pos,ele)
+    elif(choice==2):
+        for i in Li:
+            print(i,end=" ")
+    elif(choice==3):
+        Li.remove(Li[0])
+    elif(choice==4):
+        print("Enter the element to append: ")
+        ele=int(input())
+        Li.append(ele)
+        print("Element inserted at last successfully")
+    elif(choice==5):
+        Li.sort()
+        print("Elements sorted...!")
+    elif(choice==6):
+        Li.pop()
+        print("Element popped successfully")
+    elif(choice==7):
+        Li.reverse()
+    print("\nAnother Iter? Yes=1,No=0 ")
+    Iter=int(input())
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+def add(P, Q):    
+   # This function is used for adding two numbers   
+   return P + Q   
+def subtract(P, Q):   
+   # This function is used for subtracting two numbers   
+   return P - Q   
+def multiply(P, Q):   
+   # This function is used for multiplying two numbers   
+   return P * Q   
+def divide(P, Q):   
+   # This function is used for dividing two numbers    
+   return P / Q    
+# Now we will take inputs from the user    
+print ("Please select the operation.")    
+print ("a. Add")    
+print ("b. Subtract")    
+print ("c. Multiply")    
+print ("d. Divide")    
+    
+choice = input("Please enter choice (a/ b/ c/ d): ")    
+    
+num_1 = int (input ("Please enter the first number: "))    
+num_2 = int (input ("Please enter the second number: "))    
+    
+if choice == 'a':    
+   print (num_1, " + ", num_2, " = ", add(num_1, num_2))    
+    
+elif choice == 'b':    
+   print (num_1, " - ", num_2, " = ", subtract(num_1, num_2))    
+    
+elif choice == 'c':    
+   print (num1, " * ", num2, " = ", multiply(num1, num2))    
+elif choice == 'd':    
+   print (num_1, " / ", num_2, " = ", divide(num_1, num_2))    
+else:    
+   print ("This is an invalid input")    
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+i)CONCATENATE
+
+s1=input("Enter string s1 ")
+s2=input("Enter string s2 ")
+s3=s1+" "+s2
+print("The concatenated string is: ",s3)
+
+ii)REVERSE A STRING
+
+s1=input("Enter string s1 ")
+s1=s1[::-1]
+print("The reversed string is: ",s1)
+
+iii)SLICE THE STRING
+
+s1=input("Enter string s1 ")
+start=int(input("Enter the Start point to slice"))
+end=int(input("Enter the end point to slice"))
+print("The sliced string is ",s1[start:end])
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+WHY PYTHON IS CONSIDERED AS POPULAR LANGUAGE
+
+The python language is one of the most accessible programming languages available because it has simplified syntax and not complicated, 
+which gives more emphasis on natural language.Due to its ease of learning and usage, python codes can be easily written and executed much 
+faster than other programming languages.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FRAMEWORKS USED IN PYTHON
+
+
+Bottle
+CherryPy
+AIOHTTP
+Dash
+Falcon
+Flask
+Giotto
+Django
+Growler
+Uvloop
+Sanic
+MorePath
+Picnic
+Pylons Framework
+Pyramid
+TurboGears
+Web2py
+Hug
+CubicWeb  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FULL FORM OF "WSGI"
+
+Web Server Gateway Interface (WSGI)
+
