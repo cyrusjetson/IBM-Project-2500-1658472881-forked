@@ -25,7 +25,7 @@ This Application has been developed to help the customer in processing their com
 
 Team Size : 4
 
-Team Member 1 (TL) : PRAKASH R     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/PRAKASH%20R">Assignments</a>
+Team Member 1 (TL) : PRAKASH R     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Lead%20-%20R%20Prakash">Assignments</a>
 
 Team Member 2 : SELVA YOGIRAAM C   | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/SELVA%20YOGIRAM">Assignments</a>
 
