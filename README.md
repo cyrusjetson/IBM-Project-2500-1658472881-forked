@@ -31,7 +31,7 @@ Team Member 2 : SELVA YOGIRAAM C   | <a href="https://github.com/IBM-EPBL/IBM-Pr
 
 Team Member 3 : MARI SARAVANAN P   | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/MARI%20SARAVANAN%20P">Assignments</a>
 
-Team Member 4 : JETSON CYRUS J     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/JETSON%20CYRUS%20J">Assignments</a>
+Team Member 4 : JETSON CYRUS J     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Member%203%20-%20J%20Jetson%20Cyrus">Assignments</a>
 
 
 ## PROJECT DESIGN & PLANNING
