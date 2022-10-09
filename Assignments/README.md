@@ -1,9 +1,9 @@
-# Assignment Regarding
+# Assignments Regarding
 
-# Status
+# Status 📝
 -> Kindly update complition status in README file..
 
-# Upload
+# Upload 🚫
 -> Guys, kindly upload assignments in your respctive folders..
 
 # WARNING 😐
