@@ -27,11 +27,11 @@ Team Size : 4
 
 Team Member 1 (TL) : PRAKASH R     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Lead%20-%20R%20Prakash">Assignments</a>
 
-Team Member 2 : SELVA YOGIRAAM C   | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Member%201%20-%20C%20Selva%20Yogiraam">Assignments</a>
+Team Member 2 : JETSON CYRUS J     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Member%203%20-%20J%20Jetson%20Cyrus">Assignments</a>
 
 Team Member 3 : MARI SARAVANAN P   | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Member%202%20-%20P%20Mari%20Saravanan">Assignments</a>
 
-Team Member 4 : JETSON CYRUS J     | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Member%203%20-%20J%20Jetson%20Cyrus">Assignments</a>
+Team Member 4 : SELVA YOGIRAAM C   | <a href="https://github.com/IBM-EPBL/IBM-Project-2500-1658472881/tree/main/Assignments/Team%20Member%201%20-%20C%20Selva%20Yogiraam">Assignments</a>
 
 
 ## PROJECT DESIGN & PLANNING
