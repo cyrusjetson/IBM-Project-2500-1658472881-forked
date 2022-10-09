@@ -60,13 +60,4 @@ An empathy map is a visual tool used to gain insight into a user's perspective. 
 
 ---- >>> Dont commit or delete other's folder..
 
-# Completion Status Template 📝
 
-# Assignment 1:
-Completed
-
-# Assignment 2:
-Not Completed
-
-# Assignment 3:
-Not Completed
