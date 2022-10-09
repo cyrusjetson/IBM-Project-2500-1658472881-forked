@@ -1,7 +1,7 @@
 # 😶‍🌫️ ASSIGNMENTS - REG
 
 # Status 📝
--> Kindly update completion status in your respctive directory's README file..
+-> Kindly update completion status in your respective directory's README file..
 
 # Upload 📌
 -> Guys, kindly upload assignments in your respctive folders..
