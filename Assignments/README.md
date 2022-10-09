@@ -1,7 +1,7 @@
 # Assignments Regarding
 
 # Status 📝
--> Kindly update complition status in README file..
+-> Kindly update completion status in README file..
 
 # Upload 🚫
 -> Guys, kindly upload assignments in your respctive folders..
