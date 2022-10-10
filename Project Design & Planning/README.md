@@ -2,7 +2,9 @@
 
 # Ideation Phase
  Problem Statement - Not completed
+ 
  Brainstroming and idea generation - Not completed
+ 
  Emphathy Map - Completed
  
 # Project Design Phases
