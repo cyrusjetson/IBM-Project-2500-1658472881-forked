@@ -1,7 +1,7 @@
 # Completion Status 📝
 
 # Assignment 1:
-Not Completed
+ Completed
 
 # Assignment 2:
 Not Completed
