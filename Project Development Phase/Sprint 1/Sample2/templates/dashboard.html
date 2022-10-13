@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+
+
+
+{% block head %}
+
+<title>
+    Dashboard
+</title>
+
+{% endblock %}
+
+
+
+{% block body %}
+
+
+<!-- things
+
+    div 1
+welcome jetson,   sign out
+
+    div 2
+your complaints status
+
+add new complaint -->
+<br>
+<div class="fordashboardtop">
+    <div class="fordashboardtopelements1">
+        Welcome Ravi,
+    </div>
+    <div class="fordashboardtopelements2">
+        <a href="/login"><button class="forbutton">Sign out</button></a>
+    </div>
+
+</div>
+<br>
+<div class="outerofdashdetails">
+
+    <div class="fordashboarddetails">
+        <br>
+        <!-- table of customers complaints -->
+        <table class="fortable">
+            <thead>
+                <th class="pad">Complaint Detail</th>
+                <th>Assigned Agent</th>
+                <th>Status</th>
+                <th>More details</th>
+            </thead>
+            <tbody>
+                <tr>
+
+                    <td class="pad">
+                        Network Issue
+                    </td>
+                    <td>
+                        Dr.Raj
+                    </td>
+                    <td>
+                        Not Completed
+                    </td>
+                    <td>
+                        <a href="">Click Here >></a>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+        <br>
+        <center>
+            <div class="fordashboardtopelements2">
+                <a href="/login"><button class="forbutton2">Add new complaint ➕</button></a>
+            </div>
+        </center>
+    </div>
+
+</div>
+
+
+
+{% endblock %}
