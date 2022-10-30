@@ -7,4 +7,4 @@ Not completed
 Completed
 
 # Brainstorming and Idea generation
-Not completed
+Completed
