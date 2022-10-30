@@ -3,7 +3,7 @@
 # Ideation Phase
  Problem Statement - Not completed
  
- Brainstroming and idea generation - Not completed
+ Brainstroming and idea generation - Completed
  
  Emphathy Map - Completed
  
