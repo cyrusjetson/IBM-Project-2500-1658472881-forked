@@ -1,7 +1,7 @@
 # Status 📝
 
-# Problem Statement
-Not completed
+# Literature Survey
+Completed
 
 # Emphathy map
 Completed
