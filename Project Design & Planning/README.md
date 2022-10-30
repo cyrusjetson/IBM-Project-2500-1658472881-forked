@@ -1,7 +1,7 @@
 # Status 📝
 
 # Ideation Phase
- Problem Statement - Not completed
+ Literature Survey - Completed
  
  Brainstroming and idea generation - Completed
  
