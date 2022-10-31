@@ -9,6 +9,14 @@ Assignment 2 - Not Completed
 
 Assignment 3 - Not Completed
 
+
+# J Jetson Cyrus 
+Assignment 1 - Completed
+
+Assignment 2 - Completed
+
+Assignment 3 - Completed
+
 # C Selva Yogiraam
 Assignment 1 - Completed
 
@@ -22,13 +30,6 @@ Assignment 1 - Completed
 Assignment 2 - Completed
 
 Assignment 3 - Not Completed
-
-# J Jetson Cyrus 
-Assignment 1 - Completed
-
-Assignment 2 - Completed
-
-Assignment 3 - Completed
 
 
 -> Kindly update completion status in your respective directory's README file..
