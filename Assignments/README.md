@@ -20,7 +20,7 @@ Assignment 3 - Completed
 # C Selva Yogiraam
 Assignment 1 - Completed
 
-Assignment 2 - Not Completed
+Assignment 2 - Completed
 
 Assignment 3 - Not Completed
 
