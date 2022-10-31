@@ -33,9 +33,8 @@ Assignment 3 - Not Completed
 
 <hr>
 
--> Kindly update completion status in your respective directory's README file..
-
 # Upload 📌
+-> Kindly update completion status in your respective directory's README file..
 -> Guys, kindly upload assignments in your respctive folders..
 
 # WARNING 😐
