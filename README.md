@@ -43,7 +43,7 @@ Ideation is the process where you generate ideas and solutions through sessions 
 - [x] Problem Statement
 - [x] Empathy Map
 - [x] Brainstorm
-- [x] Top 3 Ideas
+
 
 
 # 📌EMPATHY MAP CANVAS :
