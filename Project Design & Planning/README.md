@@ -10,7 +10,7 @@
 # Project Design Phases
 Phase 1 - Completed
 
-Phase 2 - Not completed
+Phase 2 - Partially Completed
 
 # Project Planning
 Not completed
