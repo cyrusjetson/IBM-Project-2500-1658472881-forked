@@ -13,4 +13,4 @@ Phase 1 - Completed
 Phase 2 - Completed
 
 # Project Planning
-Not completed
+Completed
