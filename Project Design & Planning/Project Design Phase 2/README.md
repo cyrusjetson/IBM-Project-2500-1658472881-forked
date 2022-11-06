@@ -1,7 +1,7 @@
 # Progress 📝
 
 # Customer Journey
-Not Completed
+Completed
 
 # Funtional Requirement
 Completed
