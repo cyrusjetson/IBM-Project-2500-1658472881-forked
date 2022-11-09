@@ -3,11 +3,6 @@
 
 # 🛃 CUSTOMER CARE REGISTRY
 
-<h1 align="fill" >
- <img src="https://www.revechat.com/wp-content/uploads/2020/12/24x7-customer-support.png" />
-</h1>
-
-
 
 # 📒 PROJECT DESCRIPTION
 
