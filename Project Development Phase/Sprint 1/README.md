@@ -1,3 +1,4 @@
+## Sprint 1 - Completed
 
 # Connect UI with Python
 Completed
