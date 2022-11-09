@@ -1,7 +1,8 @@
 # IBM-Project-2500-1658472881
 
 
-# 🛃 CUSTOMER CARE REGISTRY <img alt="Visitor Badge" src="https://visitor-badge.feriirawann.repl.co?username=IBM-EPBL&repo=IBM-Project-2500-1658472881&label=VISITOR&style=plastic&color=%23457BFF&contentType=svg">
+# 🛃 CUSTOMER CARE REGISTRY 
+<img alt="Visitor Badge" src="https://visitor-badge.feriirawann.repl.co?username=IBM-EPBL&repo=IBM-Project-2500-1658472881&label=VISITOR&style=plastic&color=%23457BFF&contentType=svg">
 
 
 # 📒 PROJECT DESCRIPTION
