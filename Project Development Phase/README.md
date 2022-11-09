@@ -13,7 +13,7 @@
 
   Tasks    - Connect flask app with IBM DB2
   
-  Progress - Sign up page, Sign in page, Dashboard page, Add tickets page
+  Progress - Sign up page, Sign in page, Dashboard page, Add tickets page, Sendgrid integration
 
 <hr>
 
