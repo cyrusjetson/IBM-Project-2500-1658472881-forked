@@ -29,5 +29,8 @@
 
   Tasks    - Deploy in IBM cluster and Kubernates
   
-  Progress - 
+  Progress - Containerize the flask app, Upload in docker hub, Building Image, Pushing docker image, Running on Docker playground, Setting up container registry, Uploading image in container registry, Deploy in Docker
+
+
+# Upload Demo Video - https://youtu.be/Yi_fo4sqhQA
 <hr>
