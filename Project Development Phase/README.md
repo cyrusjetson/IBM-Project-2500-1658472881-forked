@@ -13,21 +13,21 @@
 
   Tasks    - Connect flask app with IBM DB2
   
-  Progress - Sign up page, Sign in page, Dashboard page, Add tickets page, Sendgrid integration
+  Progress - Sign up page, Sign in page, Dashboard page, Sendgrid integration
 
 <hr>
 
-# Sprint 3 - Not Completed
+# Sprint 3 - Completed
 
-  Tasks    - 
+  Tasks    - Complete all funtionalities
   
-  Progress - 
+  Progress - Sign up page, Sign in page, User dashboard, Admin dashboard, Agent dashboard
   
   <hr>
   
 # Sprint 4 - Not  Completed
 
-  Tasks    - 
+  Tasks    - Deploy in IBM cluster and Kubernates
   
   Progress - 
 <hr>
