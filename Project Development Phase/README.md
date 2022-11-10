@@ -25,7 +25,7 @@
   
   <hr>
   
-# Sprint 4 - Not  Completed
+# Sprint 4 - Completed
 
   Tasks    - Containerize and Deploy
   
