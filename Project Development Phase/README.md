@@ -27,7 +27,7 @@
   
 # Sprint 4 - Not  Completed
 
-  Tasks    - Deploy in IBM cluster and Kubernates
+  Tasks    - Containerize and Deploy
   
   Progress - Containerize the flask app, Upload in docker hub, Building Image, Pushing docker image, Running on Docker playground, Setting up container registry, Uploading image in container registry, Deploy in Docker
 
