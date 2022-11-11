@@ -14,7 +14,7 @@ Assignment 4 - Not Completed
 # R Prakash
 Assignment 1 - Completed
 
-Assignment 2 - Not Completed
+Assignment 2 - Completed
 
 Assignment 3 - Not Completed
 
