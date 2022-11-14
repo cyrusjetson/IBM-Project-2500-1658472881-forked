@@ -1,10 +1,10 @@
 # Completion Status 📝
 
 # Assignment 1:
- Completed
+Completed
 
 # Assignment 2:
-Not Completed
+Completed
 
 # Assignment 3:
 Not Completed
