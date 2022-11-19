@@ -1,6 +1,10 @@
 # Status 📝
 <hr>
 
+# Performance Testing - Completed
+
+# User Acceptance Testing - Completed
+
 # Sprint 1 - Completed
 
   Tasks    - Create UI to interact with application
