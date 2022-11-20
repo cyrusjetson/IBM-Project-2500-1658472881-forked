@@ -309,7 +309,7 @@ def assignagent():
             ibm_db.execute(stmt)
             sql = "update agents set status =1 where username = ?"
             stmt = ibm_db.prepare(conn, sql)
-            ibm_db.bind_param(stmt, 1, userid)
+            ibm_db.bind_param(stmt, 1, agent)
             ibm_db.execute(stmt)
         except:
             print("cant update")
