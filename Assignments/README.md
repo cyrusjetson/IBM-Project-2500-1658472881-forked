@@ -11,6 +11,15 @@ Assignment 3 - Completed
 
 Assignment 4 - Not Completed
 
+# J Jetson Cyrus 
+Assignment 1 - Completed
+
+Assignment 2 - Completed
+
+Assignment 3 - Completed
+
+Assignment 4 - Completed
+
 # R Prakash
 Assignment 1 - Completed
 
@@ -29,14 +38,6 @@ Assignment 3 - Completed
 
 Assignment 4 - Not Completed
 
-# J Jetson Cyrus 
-Assignment 1 - Completed
-
-Assignment 2 - Completed
-
-Assignment 3 - Completed
-
-Assignment 4 - Completed
 
 <hr>
 
