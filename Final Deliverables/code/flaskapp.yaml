@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: flaskapp
+  name: final
 spec:
   selector:
-      app: flaskapp
+      app: final
   ports:
   - port: 5000
   type: NodePort
@@ -12,22 +12,22 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: flaskapp
+  name: final
   labels:
-    app: flaskapp
+    app: final
 spec:
   selector:
     matchLabels:
-      app: flaskapp
+      app: final
   replicas: 1
   template:
     metadata:
       labels:
-        app: flaskapp
+        app: final
     spec:
       containers:
-      - name: flaskapp
-        image: au.icr.io/customer-care-ibm/customer-care
+      - name: final
+        image: cyrusjetson/customer:customer
         ports:
         - containerPort: 5000
         env:
