@@ -33,7 +33,7 @@
 
   Tasks    - Containerize and Deploy
   
-  Progress - Containerize the flask app, Upload in docker hub, Building Image, Pushing docker image, Running on Docker playground, Setting up container registry, Uploading image in container registry, Deploy in Docker
+  Progress - Containerize the flask app, Upload in docker hub, Building Image, Pushing docker image, Running on Docker playground, Setting up container registry, Uploading image in container registry, Deploy in IBM Cloud
 
 
 # Upload Demo Video - https://youtu.be/Yi_fo4sqhQA
